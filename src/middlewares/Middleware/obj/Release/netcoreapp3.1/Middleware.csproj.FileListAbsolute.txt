@@ -1,0 +1,9 @@
+D:\5_MOSL\0_SVN_Project\branches\Kwik_Project\src\middlewares\Middleware\bin\Release\netcoreapp3.1\Middleware.deps.json
+D:\5_MOSL\0_SVN_Project\branches\Kwik_Project\src\middlewares\Middleware\bin\Release\netcoreapp3.1\Middleware.dll
+D:\5_MOSL\0_SVN_Project\branches\Kwik_Project\src\middlewares\Middleware\bin\Release\netcoreapp3.1\Middleware.pdb
+D:\5_MOSL\0_SVN_Project\branches\Kwik_Project\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.csprojAssemblyReference.cache
+D:\5_MOSL\0_SVN_Project\branches\Kwik_Project\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+D:\5_MOSL\0_SVN_Project\branches\Kwik_Project\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.AssemblyInfo.cs
+D:\5_MOSL\0_SVN_Project\branches\Kwik_Project\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+D:\5_MOSL\0_SVN_Project\branches\Kwik_Project\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.dll
+D:\5_MOSL\0_SVN_Project\branches\Kwik_Project\src\middlewares\Middleware\obj\Release\netcoreapp3.1\Middleware.pdb

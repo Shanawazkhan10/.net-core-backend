@@ -1,0 +1,797 @@
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.exe
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.deps.json
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.json
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.dev.json
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MySql.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csprojAssemblyReference.cache
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfoInputs.cache
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfo.cs
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CoreCompileInputs.cache
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cs
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cache
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.Manifest.cache
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.xml
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\Banking_Microservice.styles.css
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.RazorTargetAssemblyInfo.cache
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CopyComplete
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\1_Kwik_Project_22122020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.genruntimeconfig.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.exe
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.deps.json
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.json
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.dev.json
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MySql.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csprojAssemblyReference.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfoInputs.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfo.cs
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CoreCompileInputs.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cs
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.Manifest.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.xml
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\Banking_Microservice.styles.css
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.RazorTargetAssemblyInfo.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CopyComplete
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\5_MOSL\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.genruntimeconfig.cache
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.exe
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.deps.json
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.json
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.dev.json
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MySql.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csprojAssemblyReference.cache
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfoInputs.cache
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfo.cs
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CoreCompileInputs.cache
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cs
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cache
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.RazorTargetAssemblyInfo.cache
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CopyComplete
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.Manifest.cache
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.xml
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\We3TechWorks\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.genruntimeconfig.cache
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.exe
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.deps.json
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.json
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.dev.json
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.pdb
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MySql.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfoInputs.cache
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfo.cs
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CoreCompileInputs.cache
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cs
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.Manifest.cache
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.xml
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\Banking_Microservice.styles.css
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.RazorTargetAssemblyInfo.cache
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CopyComplete
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.dll
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.pdb
+E:\Abhishek WorkSpace\MOSL_Satendra\04_01_21\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.genruntimeconfig.cache
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.exe
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.deps.json
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.json
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.dev.json
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MySql.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csprojAssemblyReference.cache
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfoInputs.cache
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfo.cs
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CoreCompileInputs.cache
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cs
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cache
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.RazorTargetAssemblyInfo.cache
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CopyComplete
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.Manifest.cache
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.xml
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\We3TechWorks\04-01-2020\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.genruntimeconfig.cache
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.exe
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.deps.json
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.json
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.dev.json
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MySql.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csprojAssemblyReference.cache
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfoInputs.cache
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfo.cs
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CoreCompileInputs.cache
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cs
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cache
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.RazorTargetAssemblyInfo.cache
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CopyComplete
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.Manifest.cache
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.xml
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\We3TechWorks\Quick_Project\1_Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.genruntimeconfig.cache
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\appsettings.Production.json
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.exe
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.deps.json
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.json
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.runtimeconfig.dev.json
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.MySql.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.Core.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\HealthChecks.UI.InMemory.Storage.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\KubernetesClient.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\bin\Debug\netcoreapp3.1\Middleware.pdb
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csprojAssemblyReference.cache
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfoInputs.cache
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.AssemblyInfo.cs
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CoreCompileInputs.cache
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.RazorTargetAssemblyInfo.cache
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.csproj.CopyComplete
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.Manifest.cache
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\Banking_Microservice.StaticWebAssets.xml
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.dll
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.pdb
+D:\ProjectWeTech\branches\Kwik_Project\src\microservices\BankingMicroservice\obj\Debug\netcoreapp3.1\Banking_Microservice.genruntimeconfig.cache

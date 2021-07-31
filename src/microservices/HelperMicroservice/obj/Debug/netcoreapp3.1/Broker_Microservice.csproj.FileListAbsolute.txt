@@ -1,0 +1,6 @@
+D:\5_MOSL\1_Kwik_Project\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\Broker_Microservice.csprojAssemblyReference.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\Broker_Microservice.AssemblyInfoInputs.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\Broker_Microservice.AssemblyInfo.cs
+D:\5_MOSL\1_Kwik_Project\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\Broker_Microservice.csproj.CoreCompileInputs.cache
+D:\5_MOSL\1_Kwik_Project\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\Broker_Microservice.MvcApplicationPartsAssemblyInfo.cs
+D:\5_MOSL\1_Kwik_Project\src\microservices\CatalogMicroservice\obj\Debug\netcoreapp3.1\Broker_Microservice.MvcApplicationPartsAssemblyInfo.cache
