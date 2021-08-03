@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TDFB4Jp7QK5j+Rga56MiCIZN5XZQvNtoeT4hU9QycLHzAFE5xQs/iL6ftIJdoDQ9v5PTEy048vHVWtbvAuUb+w==",
+  "dgSpecHash": "Da74Wah0CPJ8b5Jq4vpqr54Rr141eC37k+ktjPjpchFkbZzvhu3JIz7S1Jbs6ILuv7hXaVuFQerNXmyq2w8C3A==",
   "success": true,
   "projectFilePath": "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\microservices\\UserDataMicroservice\\UserDataMicroservice.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\indianrenters\\.nuget\\packages\\aspnetcore.healthchecks.ui.client\\3.1.1\\aspnetcore.healthchecks.ui.client.3.1.1.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\aspnetcore.healthchecks.ui.core\\3.1.1\\aspnetcore.healthchecks.ui.core.3.1.1.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\aspnetcore.healthchecks.ui.inmemory.storage\\3.1.1\\aspnetcore.healthchecks.ui.inmemory.storage.3.1.1.nupkg.sha512",
+    "C:\\Users\\indianrenters\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\kubernetesclient\\1.6.10\\kubernetesclient.1.6.10.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

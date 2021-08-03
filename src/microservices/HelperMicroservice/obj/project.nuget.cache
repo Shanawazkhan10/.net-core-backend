@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jO5FOI7qcjdV1/TKd0p4dySWcHtSH8F0JQx5vw6oHrxHq3Io7JM7PcK5JSdletPxnDUAmYemJh1sELu6bcYMZg==",
+  "dgSpecHash": "942F2DGQabEhgLaP0QNLDekOEzrIhR3uaLApWFHvL+pF1XTfkD5jvldn2kqkXg1yVPgti8XFGaWACf5i0Y5iHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\microservices\\HelperMicroservice\\HelperMicroservice.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\indianrenters\\.nuget\\packages\\hangfire.aspnetcore\\1.7.19\\hangfire.aspnetcore.1.7.19.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\hangfire.core\\1.7.19\\hangfire.core.1.7.19.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\hangfire.sqlserver\\1.7.19\\hangfire.sqlserver.1.7.19.nupkg.sha512",
+    "C:\\Users\\indianrenters\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\kubernetesclient\\1.6.10\\kubernetesclient.1.6.10.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

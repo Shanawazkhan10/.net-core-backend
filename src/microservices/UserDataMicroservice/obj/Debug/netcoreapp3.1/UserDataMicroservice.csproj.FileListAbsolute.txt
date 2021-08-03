@@ -340,3 +340,4 @@ C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microse
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microservices\UserDataMicroservice\obj\Debug\netcoreapp3.1\UserDataMicroservice.dll
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microservices\UserDataMicroservice\obj\Debug\netcoreapp3.1\UserDataMicroservice.pdb
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microservices\UserDataMicroservice\obj\Debug\netcoreapp3.1\UserDataMicroservice.genruntimeconfig.cache
+C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microservices\UserDataMicroservice\bin\Debug\netcoreapp3.1\Json.Net.dll

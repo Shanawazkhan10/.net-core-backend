@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1Zi7wupphcanvQmxGTxnNfKxoj1mGxv7dGczsAZMwfwl1ywGnYyIy6lD3Nv53pmtmh3+kd3rvN68sDbUptnpGw==",
+  "dgSpecHash": "Apx7sqct3zj8RVib8h8UHklKaloAvtmc3SBBLOZMXNNlYkfINUq5JnJBAlBIhU1xrJ+splwSAfIJmuSWApqeBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\gateways\\ReTG\\ReTG.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\indianrenters\\.nuget\\packages\\aspnetcore.healthchecks.ui.core\\3.1.1\\aspnetcore.healthchecks.ui.core.3.1.1.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\aspnetcore.healthchecks.ui.inmemory.storage\\3.1.1\\aspnetcore.healthchecks.ui.inmemory.storage.3.1.1.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\indianrenters\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\kubernetesclient\\1.6.10\\kubernetesclient.1.6.10.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

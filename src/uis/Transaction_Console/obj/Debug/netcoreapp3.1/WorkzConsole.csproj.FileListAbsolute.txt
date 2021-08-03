@@ -39,3 +39,6 @@ C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\uis\Tra
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\uis\Transaction_Console\obj\Debug\netcoreapp3.1\WorkzConsole.dll
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\uis\Transaction_Console\obj\Debug\netcoreapp3.1\WorkzConsole.pdb
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\uis\Transaction_Console\obj\Debug\netcoreapp3.1\WorkzConsole.genruntimeconfig.cache
+C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\uis\Transaction_Console\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\uis\Transaction_Console\obj\Debug\netcoreapp3.1\WorkzConsole.csproj.AssemblyReference.cache
+C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\uis\Transaction_Console\obj\Debug\netcoreapp3.1\WorkzConsole.csproj.CopyComplete

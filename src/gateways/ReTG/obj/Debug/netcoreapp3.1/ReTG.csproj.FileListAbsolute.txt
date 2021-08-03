@@ -506,3 +506,4 @@ C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\gateway
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\gateways\ReTG\obj\Debug\netcoreapp3.1\ReTG.dll
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\gateways\ReTG\obj\Debug\netcoreapp3.1\ReTG.pdb
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\gateways\ReTG\obj\Debug\netcoreapp3.1\ReTG.genruntimeconfig.cache
+C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\gateways\ReTG\bin\Debug\netcoreapp3.1\Json.Net.dll

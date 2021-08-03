@@ -14,6 +14,8 @@ using Middleware.Hubs;
 using System.Net.Mail;
 using System.Net;
 using RestSharp;
+using System.Runtime.Serialization.Json;
+
 namespace Helper_Microservice.Controllers
 {
     [Route("v1/api/Notify/")]
@@ -48,18 +50,19 @@ namespace Helper_Microservice.Controllers
         }
 
         [ApiExplorerSettings(IgnoreApi = true)]
-        [NonAction]
+        [HttpPost("Send_Email_Notification", Name = "Send_Email_Notification")]
+
         public int Send_Email_Notification(string Org_Id, string User_Id, string Email_To, string Email_Cc, String Email_Bcc, string Email_Subject, string Email_Body, int Is_System_Notification)
         {
             try
             {
                 using (MailMessage mm = new MailMessage())
                 {
-                    mm.To.Add(Email_To);
-                    if (Email_Cc != "") { mm.CC.Add(Email_Cc); }
-                    if (Email_Bcc != "") { mm.Bcc.Add(Email_Bcc); }
-                    mm.Subject = Email_Subject;
-                    mm.Body = Email_Body;
+                    mm.To.Add("shanawazummarkhan@gmail.com");
+                  //  if (Email_Cc != "") { mm.CC.Add(Email_Cc); }
+                  //  if (Email_Bcc != "") { mm.Bcc.Add(Email_Bcc); }
+                    mm.Subject = "Email_Subject";
+                    mm.Body = "Email_Body";
                     mm.IsBodyHtml = true;
                     MailAddress address = new MailAddress("test_mail@gmail.com");
                     mm.From = address;
@@ -411,8 +414,17 @@ namespace Helper_Microservice.Controllers
             }
 
         }
+        public class dataTOpass
+        {
+
+            public string pan_no { get; set; }
+
+            public string full_name { get; set; }
+            public string date_of_birth { get; set; }
+        }
+
         [HttpPost("PanAPITest", Name = "PanAPITest")]
-        public IActionResult PanAPITest()
+        public IActionResult PanAPITest(dataTOpass panData)
         {
             ArrayList Response_Array = new ArrayList();
             var client = new RestClient("https://ext.digio.in:444/v3/client/kyc/pan/verify");
@@ -420,21 +432,112 @@ namespace Helper_Microservice.Controllers
             var request = new RestRequest(Method.POST);
             request.AddHeader("Authorization", "Basic QUlZM0gxWFM1QVBUMkVNRkU1NFVXWjU2SVE4RlBLRlA6R083NUZXMllBWjZLUU0zRjFaU0dRVlVRQ1pQWEQ2T0Y=");
             request.AddHeader("Content-Type", "application/json");
-            var body = @"{
-" + "\n" +
-            @"        ""pan_no"": pan_no,
-" + "\n" +
-            @"    ""full_name"": full_name,
-" + "\n" +
-            @"    ""date_of_birth"": date_of_birth
-" + "\n" +
-            @"        }";
-            request.AddParameter("application/json", body, ParameterType.RequestBody);
+           
+            dataTOpass cust = new dataTOpass() 
+            { pan_no = panData.pan_no, full_name = panData.full_name, date_of_birth = panData.date_of_birth };
+
+            string result = JsonConvert.SerializeObject(cust);
+
+            request.AddParameter("application/json", result, ParameterType.RequestBody);
             IRestResponse response =  client.Execute(request);
        
             Console.WriteLine(response.Content);
  
-            return Ok();
+            return Ok(response.Content);
         }
+        public class SmsVerify
+        {
+            public string smsContact { get; set; }
+
+            public string OTP { get; set; }
+            
+        }
+        // message call API
+        [HttpPost("MsgAPITest", Name = "MsgAPITest")]
+        public IActionResult MsgAPITest(SmsVerify smsData)
+        {
+            var client = new RestClient("https://http.myvfirst.com/smpp/sendsms?username=mangalhtpotp&password=ki@34@sc6&to="+smsData.smsContact + @"&from=8268405887&text=Dear Sir/Madam,Greetings from Mangal Keshav!"+ smsData.OTP + @" is your one time password (OTP) for Mobile verification to complete the Mangal Keshav eKYC process.Regards,Mangal Keshav Team");
+            client.Timeout = -1;
+            var request = new RestRequest(Method.POST);
+            request.AddHeader("Content-Type", "application/json");
+            var body = @"{
+" + "\n" +
+            @"    
+" + "\n" +
+            @"}";
+            request.AddParameter("application/json", body, ParameterType.RequestBody);
+            IRestResponse response = client.Execute(request);
+            Console.WriteLine(response.Content);
+            return Ok(response.Content);
+        }
+       
+        public class EmailData
+        {
+            public string emailSend { get; set; }
+
+            public string user_token { get; set; }
+            //public string date_of_birth { get; set; }
+        }
+
+        [HttpPost("EmailAPITest", Name = "EmailAPITest")]
+        public void EmailAPITest(EmailData emailOBJ)
+        {
+            var token = Convert.ToString(emailOBJ.user_token);
+                using (MailMessage mm = new MailMessage())
+                {
+                    mm.To.Add(emailOBJ.emailSend);
+                    //  if (Email_Cc != "") { mm.CC.Add(Email_Cc); }
+                    //  if (Email_Bcc != "") { mm.Bcc.Add(Email_Bcc); }
+                    mm.Subject = "Sending Email using SMTP";
+                //"<a href='http://localhost:3000/ConfirmPage/"+ emailOBJ.user_token + @"'>abc</a>"
+                String body = "<a href='http://localhost:3000/ConfirmPage/"+token+"'>Verify</a>";
+                mm.Body = body;
+                mm.IsBodyHtml = true;
+                    MailAddress address = new MailAddress("shanawazumarkhan@gmail.com");
+                    mm.From = address;
+                    SmtpClient smtp = new SmtpClient();
+                    smtp.Host = "smtp.gmail.com";
+                    smtp.EnableSsl = true;
+                    NetworkCredential NetworkCred = new NetworkCredential("shanawazumarkhan@gmail.com", "kjshanawaz");
+                    smtp.UseDefaultCredentials = true;
+                    smtp.Credentials = NetworkCred;
+                    smtp.Port = 587;
+                    smtp.Send(mm); // Email Success
+
+                  
+                }
+        }
+        public class BankData
+        {
+            public string beneficiary_account_no { get; set; }
+
+            public string beneficiary_ifsc { get; set; }
+            //public string date_of_birth { get; set; }
+        }
+
+        [HttpPost("BankVerify", Name = "BankVerify")]
+        public IActionResult BankVerify(BankData BankOBJ)
+        {
+            ArrayList Response_Array = new ArrayList();
+            var client = new RestClient("https://ext.digio.in:444/client/verify/bank_account");
+            client.Timeout = -1;
+            var request = new RestRequest(Method.POST);
+            request.AddHeader("Authorization", "Basic QUlZM0gxWFM1QVBUMkVNRkU1NFVXWjU2SVE4RlBLRlA6R083NUZXMllBWjZLUU0zRjFaU0dRVlVRQ1pQWEQ2T0Y=");
+            request.AddHeader("Content-Type", "application/json");
+
+            BankData cust = new BankData()
+            { beneficiary_account_no = BankOBJ.beneficiary_account_no, beneficiary_ifsc = BankOBJ.beneficiary_ifsc };
+
+            string result = JsonConvert.SerializeObject(cust);
+
+            request.AddParameter("application/json", result, ParameterType.RequestBody);
+            IRestResponse response = client.Execute(request);
+
+            Console.WriteLine(response.Content);
+
+            return Ok(response.Content);
+
+        }
+        }
+
     }
-}

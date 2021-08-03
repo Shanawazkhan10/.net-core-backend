@@ -340,3 +340,4 @@ C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microse
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microservices\MasterDataMicroservice\obj\Debug\netcoreapp3.1\MasterDataMicroservice.dll
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microservices\MasterDataMicroservice\obj\Debug\netcoreapp3.1\MasterDataMicroservice.pdb
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microservices\MasterDataMicroservice\obj\Debug\netcoreapp3.1\MasterDataMicroservice.genruntimeconfig.cache
+C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\microservices\MasterDataMicroservice\bin\Debug\netcoreapp3.1\Json.Net.dll
