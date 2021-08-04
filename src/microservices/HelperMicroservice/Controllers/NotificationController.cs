@@ -15,6 +15,10 @@ using System.Net.Mail;
 using System.Net;
 using RestSharp;
 using System.Runtime.Serialization.Json;
+using System.IdentityModel.Tokens.Jwt;
+using Microsoft.IdentityModel.Tokens;
+using System.Security.Claims;
+using System.Collections.Generic;
 
 namespace Helper_Microservice.Controllers
 {
@@ -445,18 +449,19 @@ namespace Helper_Microservice.Controllers
  
             return Ok(response.Content);
         }
+        private const string Secret = "db3OIsj+BXE9NZDy0t8W3TcNekrF+2d/1sFnWG4HnV8TZY30iTOdtVWJG8abWvB1GlOgJuQZdcF2Luqm/hccMw==";
         public class SmsVerify
         {
             public string smsContact { get; set; }
 
             public string OTP { get; set; }
-            
         }
         // message call API
-        [HttpPost("MsgAPITest", Name = "MsgAPITest")]
-        public IActionResult MsgAPITest(SmsVerify smsData)
+        [HttpPost("smsAPI", Name = "smsAPI")]
+        public IActionResult smsAPI(SmsVerify smsData)
         {
-            var client = new RestClient("https://http.myvfirst.com/smpp/sendsms?username=mangalhtpotp&password=ki@34@sc6&to="+smsData.smsContact + @"&from=8268405887&text=Dear Sir/Madam,Greetings from Mangal Keshav!"+ smsData.OTP + @" is your one time password (OTP) for Mobile verification to complete the Mangal Keshav eKYC process.Regards,Mangal Keshav Team");
+
+            var client = new RestClient("https://http.myvfirst.com/smpp/sendsms?username=mangalhtpotp&password=ki@34@sc6&to=" + smsData.smsContact + @"&from=8268405887&text=Dear Sir/Madam,Greetings from Mangal Keshav!" + smsData.OTP + @" is your one time password (OTP) for Mobile verification to complete the Mangal Keshav eKYC process.Regards,Mangal Keshav Team");
             client.Timeout = -1;
             var request = new RestRequest(Method.POST);
             request.AddHeader("Content-Type", "application/json");
@@ -469,8 +474,59 @@ namespace Helper_Microservice.Controllers
             IRestResponse response = client.Execute(request);
             Console.WriteLine(response.Content);
             return Ok(response.Content);
+
         }
-       
+
+        public class VerifyDetails
+        {
+            public string flag { get; set; }
+            public string smsContact { get; set; }
+
+        }
+        // message call API
+        [HttpPost("VerifyNumber", Name = "VerifyNumber")]
+        public void VerifyNumber(VerifyDetails VerifyOBJ)
+        {
+            var contact = "abc";
+            //return Ok(contact);
+        }
+
+        public class JWTWebTokenData
+        {
+            public string smsContact { get; set; }
+
+            public string OTP { get; set; }
+
+        }
+        // message call API
+        [HttpPost("JWTWebToken", Name = "JWTWebToken")]
+        public IActionResult JWTWebToken(JWTWebTokenData jwtOBJ)
+        {
+            var symmetricKey = Convert.FromBase64String(Secret);
+            var tokenHandler = new JwtSecurityTokenHandler();
+
+            var now = DateTime.UtcNow;
+            var tokenDescriptor = new SecurityTokenDescriptor
+            {
+                Subject = new ClaimsIdentity(new[]
+                {
+            new Claim(ClaimTypes.Name, jwtOBJ.smsContact)
+        }),
+
+                //Expires = now.AddMinutes(Convert.ToInt32(expireMinutes)),
+
+                SigningCredentials = new SigningCredentials(
+                    new SymmetricSecurityKey(symmetricKey),
+                    SecurityAlgorithms.HmacSha256Signature)
+            };
+
+            var stoken = tokenHandler.CreateToken(tokenDescriptor);
+            var JWTtoken = tokenHandler.WriteToken(stoken);
+
+            return Ok(JWTtoken);
+
+        }
+
         public class EmailData
         {
             public string emailSend { get; set; }
@@ -538,6 +594,27 @@ namespace Helper_Microservice.Controllers
             return Ok(response.Content);
 
         }
+        //Razorpay
+        //public class RazorPay
+        //{
+        //    public string beneficiary_account_no { get; set; }
+
+        //    public string beneficiary_ifsc { get; set; }
+        //    //public string date_of_birth { get; set; }
+        //}
+
+        [HttpPost("RazorPayIntegrated", Name = "RazorPayIntegrated")]
+        public IActionResult RazorPayIntegrated()
+        {
+            Razorpay.Api.RazorpayClient client = new Razorpay.Api.RazorpayClient("rzp_test_dojmbldJSpz91g", "jb9h6XQ1wukVmCyTerDAnSc1");
+            Dictionary<string, object> options = new Dictionary<string, object>(); 
+            options.Add("amount", 50000); // amount in the smallest currency unit                                                                                                                                                              options.Add("receipt", "order_rcptid_11");
+            options.Add("currency", "INR");
+            Razorpay.Api.Order order = client.Order.Create(options);
+
+            return Ok(options);
+
         }
+    }
 
     }
