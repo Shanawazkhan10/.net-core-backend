@@ -16,3 +16,12 @@ C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\middlew
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
 C:\Users\indianrenters\Downloads\Microservices_01_Project\01_Project\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.AssemblyReference.cache
+C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb

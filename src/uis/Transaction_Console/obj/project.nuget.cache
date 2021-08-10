@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z+8Fn+Dy+ujVm699liotNSXyUdF68ayS0br9QGfw9PiPhLPI33n2pNraUSzDTU6lYJmaIhzdJ2PWLX7jLGonEQ==",
+  "dgSpecHash": "K+Od4HxtxvDw3M4LQXVbEaIiwxAt/L0gPm40JZrCsLNFXEwJ3P+n7WtEG+swYALyDpcOpMvXuFpW2Oj4G9bkWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\uis\\Transaction_Console\\WorkzConsole.csproj",
+  "projectFilePath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\uis\\Transaction_Console\\WorkzConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\indianrenters\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512"
   ],

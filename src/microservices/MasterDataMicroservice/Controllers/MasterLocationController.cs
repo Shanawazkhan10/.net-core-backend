@@ -254,7 +254,7 @@ namespace MasterDataMicroservice.Controllers
             public string Country_Name { get; set; }
             public int Is_Active { get; set; }
             public string LastEdited_By { get; set; }
-        }
+        } 
 
         [HttpPost("Update_Country", Name = "Update_Country")]
         public IActionResult Update_Country([FromBody] Input_Param_Country_Update Country_Data)

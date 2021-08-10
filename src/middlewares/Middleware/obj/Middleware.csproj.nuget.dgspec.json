@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\middlewares\\Middleware\\Middleware.csproj": {}
+    "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj": {}
   },
   "projects": {
-    "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\middlewares\\Middleware\\Middleware.csproj": {
+    "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\middlewares\\Middleware\\Middleware.csproj",
+        "projectUniqueName": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj",
         "projectName": "Middleware",
-        "projectPath": "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\middlewares\\Middleware\\Middleware.csproj",
+        "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj",
         "packagesPath": "C:\\Users\\indianrenters\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\middlewares\\Middleware\\obj\\",
+        "outputPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

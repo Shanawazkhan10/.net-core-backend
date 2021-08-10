@@ -450,6 +450,7 @@ namespace Helper_Microservice.Controllers
             return Ok(response.Content);
         }
         private const string Secret = "db3OIsj+BXE9NZDy0t8W3TcNekrF+2d/1sFnWG4HnV8TZY30iTOdtVWJG8abWvB1GlOgJuQZdcF2Luqm/hccMw==";
+
         public class SmsVerify
         {
             public string smsContact { get; set; }
@@ -460,8 +461,11 @@ namespace Helper_Microservice.Controllers
         [HttpPost("smsAPI", Name = "smsAPI")]
         public IActionResult smsAPI(SmsVerify smsData)
         {
-
-            var client = new RestClient("https://http.myvfirst.com/smpp/sendsms?username=mangalhtpotp&password=ki@34@sc6&to=" + smsData.smsContact + @"&from=8268405887&text=Dear Sir/Madam,Greetings from Mangal Keshav!" + smsData.OTP + @" is your one time password (OTP) for Mobile verification to complete the Mangal Keshav eKYC process.Regards,Mangal Keshav Team");
+            int _min = 1000;
+            int _max = 9999;
+            Random _rdm = new Random();
+            var otpBKC = _rdm.Next(_min, _max);
+            var client = new RestClient("http://mobile1.ssexpertsystem.com/vendorsms/pushsms.aspx?user=mangalk&password=mangal09a&msisdn="+smsData.smsContact+"&sid=MKFSLP&msg=Dear Sir/Madam,Greetings from Mangal Keshav! "+ otpBKC + " is your one time password (OTP) for Mobile verification to complete the Mangal Keshav eKYC process.Regards,Mangal Keshav Team&fl=0&gwid=2");
             client.Timeout = -1;
             var request = new RestRequest(Method.POST);
             request.AddHeader("Content-Type", "application/json");
@@ -472,9 +476,10 @@ namespace Helper_Microservice.Controllers
             @"}";
             request.AddParameter("application/json", body, ParameterType.RequestBody);
             IRestResponse response = client.Execute(request);
-            Console.WriteLine(response.Content);
-            return Ok(response.Content);
-
+            //Console.WriteLine(response.Content);
+            var jsonotpBKC = Newtonsoft.Json.JsonConvert.SerializeObject(otpBKC);
+            return Ok(new { response.Content, jsonotpBKC });
+            //return Ok(otpBKC);
         }
 
         public class VerifyDetails
@@ -486,7 +491,7 @@ namespace Helper_Microservice.Controllers
         // message call API
         [HttpPost("VerifyNumber", Name = "VerifyNumber")]
         public void VerifyNumber(VerifyDetails VerifyOBJ)
-        {
+         {
             var contact = "abc";
             //return Ok(contact);
         }

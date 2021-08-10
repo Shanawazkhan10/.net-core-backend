@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rN1l+eBVwrs2mgXmKBngj2StMgb4SWIqnKHOrHfT7TDBWc2wTXn0FDwS+VhtyCjVK9FMRh2wp56dARta/YNcVw==",
+  "dgSpecHash": "IRBooUTNSg8ViSpQ2w0+btekg1CrYoqnVUEkEXoRTHMf93HTwEQ+Gp0+LiRJHFhxlME//2XBg5MgNYO+8Yw0lQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\indianrenters\\Downloads\\Microservices_01_Project\\01_Project\\src\\microservices\\HelperMicroservice\\HelperMicroservice.csproj",
+  "projectFilePath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\microservices\\HelperMicroservice\\HelperMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\indianrenters\\.nuget\\packages\\aspnetcore.healthchecks.mysql\\3.1.1\\aspnetcore.healthchecks.mysql.3.1.1.nupkg.sha512",
     "C:\\Users\\indianrenters\\.nuget\\packages\\aspnetcore.healthchecks.ui\\3.1.1\\aspnetcore.healthchecks.ui.3.1.1.nupkg.sha512",
