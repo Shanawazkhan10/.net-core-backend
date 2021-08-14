@@ -5,6 +5,7 @@
     <UserSecretsId>549e8e8d-2d7b-40f5-87a5-211036ab6217</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>..\..\..</DockerfileContext>
+    <AssemblyName />
   </PropertyGroup>
 
   <ItemGroup>

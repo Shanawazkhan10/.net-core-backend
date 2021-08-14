@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\UserDataMicroservice.csproj": {}
+    "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\UserDataMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\UserDataMicroservice.csproj": {
+    "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\UserDataMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\UserDataMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\UserDataMicroservice.csproj",
         "projectName": "UserDataMicroservice",
-        "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\UserDataMicroservice.csproj",
+        "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\UserDataMicroservice.csproj",
         "packagesPath": "C:\\Users\\indianrenters\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\obj\\",
+        "outputPath": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\microservices\\UserDataMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj": {
-                "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj"
+              "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj": {
+                "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj"
               }
             }
           }
@@ -68,6 +68,10 @@
               "target": "Package",
               "version": "[1.0.33, )"
             },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.0, )"
@@ -83,6 +87,10 @@
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -111,14 +119,14 @@
         }
       }
     },
-    "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj": {
+    "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj",
+        "projectUniqueName": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj",
         "projectName": "Middleware",
-        "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj",
+        "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj",
         "packagesPath": "C:\\Users\\indianrenters\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\obj\\",
+        "outputPath": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\middlewares\\Middleware\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

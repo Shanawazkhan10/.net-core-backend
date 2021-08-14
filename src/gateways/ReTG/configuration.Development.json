@@ -25,7 +25,9 @@
           "Port": 44333
         }
       ],
-      "UpstreamPathTemplate": "/api/validate/{everything}",
+      //"UpstreamPathTemplate": "/api/validate/{everything}",
+      //"UpstreamHttpMethod": [ "POST" ],
+      "UpstreamPathTemplate": "/api/user/login/{everything}",
       "UpstreamHttpMethod": [ "POST" ]
     },
     {

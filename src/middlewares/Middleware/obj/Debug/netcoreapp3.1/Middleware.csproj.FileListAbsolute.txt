@@ -25,3 +25,12 @@ C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Mid
 C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
 C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
 C:\Users\indianrenters\Desktop\kyc-backend\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb
+C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.deps.json
+C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.dll
+C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\middlewares\Middleware\bin\Debug\netcoreapp3.1\Middleware.pdb
+C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.AssemblyReference.cache
+C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfoInputs.cache
+C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.AssemblyInfo.cs
+C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.dll
+C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\middlewares\Middleware\obj\Debug\netcoreapp3.1\Middleware.pdb

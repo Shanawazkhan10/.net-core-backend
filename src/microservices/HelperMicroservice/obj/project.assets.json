@@ -10001,11 +10001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\microservices\\HelperMicroservice\\HelperMicroservice.csproj",
+      "projectUniqueName": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\microservices\\HelperMicroservice\\HelperMicroservice.csproj",
       "projectName": "HelperMicroservice",
-      "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\microservices\\HelperMicroservice\\HelperMicroservice.csproj",
+      "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\microservices\\HelperMicroservice\\HelperMicroservice.csproj",
       "packagesPath": "C:\\Users\\indianrenters\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\microservices\\HelperMicroservice\\obj\\",
+      "outputPath": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\microservices\\HelperMicroservice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10026,8 +10026,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj": {
-              "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj"
+            "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj": {
+              "projectPath": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\middlewares\\Middleware\\Middleware.csproj"
             }
           }
         }

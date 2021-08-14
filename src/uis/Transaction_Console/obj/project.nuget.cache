@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K+Od4HxtxvDw3M4LQXVbEaIiwxAt/L0gPm40JZrCsLNFXEwJ3P+n7WtEG+swYALyDpcOpMvXuFpW2Oj4G9bkWA==",
+  "dgSpecHash": "J7Sc/q1mBQtOiQRCYtNPNqJtxTldYLm1TYkg7GWYdrL+eVlB78IYbnGSryThRmWBTZ40d03Eox3EtL7KgSCG+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\indianrenters\\Desktop\\kyc-backend\\.net-core-backend\\src\\uis\\Transaction_Console\\WorkzConsole.csproj",
+  "projectFilePath": "C:\\Users\\indianrenters\\Desktop\\kyc-demo\\.net-core-backend\\src\\uis\\Transaction_Console\\WorkzConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\indianrenters\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512"
   ],

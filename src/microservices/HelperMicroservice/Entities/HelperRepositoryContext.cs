@@ -19,7 +19,7 @@ namespace HelperMicroservice.Entities
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("server=95.216.200.167; port=3306; database=we3_workz; userid=devwebdukandeveloper;password=devwebdukanDeveloper@D321;");
+            optionsBuilder.UseMySql("server=localhost; port=3306; database=ekyc; userid=root;password=shanawaz@12#;");
         }
 
 
