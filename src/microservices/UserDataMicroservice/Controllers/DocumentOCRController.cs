@@ -62,18 +62,7 @@ namespace UserDataMicroservice.Controllers
                 fileStream.Flush();
                 string fileTypeData = "\\ImgOCR\\" + panOBJ.front_part.FileName;
             }
-            //string fileType12 = panOBJ.front_part;
-            //string path = @"C:\Users\indianrenters\Desktop\kyc-demo\.net-core-backend\src\microservices\UserDataMicroservice\wwwroot\ImgOCR\image.jpg";
             string path = $"{Directory.GetCurrentDirectory()}{@"\wwwroot\imgOCR\"+panOBJ.front_part.FileName+""}";
-            //var client = new RestClient("https://ext.digio.in:444/v3/client/kyc/analyze/file/idcard");
-            //client.Timeout = -1;
-            //var request = new RestRequest(Method.POST);
-            //request.AddHeader("Authorization", "Basic QUlZM0gxWFM1QVBUMkVNRkU1NFVXWjU2SVE4RlBLRlA6R083NUZXMllBWjZLUU0zRjFaU0dRVlVRQ1pQWEQ2T0Y=");
-            //request.AddFile("front_part", path);
-            //IRestResponse response = (IRestResponse)client.Execute((IRestRequest)request);
-            //Console.WriteLine(response.Content);
-            //return Ok(response.Content);
-
             var client = new RestClient("https://ext.digio.in:444/v3/client/kyc/analyze/file/idcard");
             client.Timeout = -1;
             var request = new RestRequest(Method.POST);
